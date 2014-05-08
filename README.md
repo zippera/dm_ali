@@ -1,4 +1,15 @@
-dm_ali
+阿里巴巴大数据竞赛代码
 ======
 
-Alibaba data mining contest, my code.
+Language: Python
+
+Dependencies：
+
+- sklearn
+
+Running:
+
+1. `cd dm_ali`
+2. `python perceptron.py`
+
+For more information: <http://zipperary.com>
